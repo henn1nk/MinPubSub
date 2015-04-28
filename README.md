@@ -1,6 +1,8 @@
 MinPubSub
 =========
 
+[![Join the chat at https://gitter.im/henn1nk/MinPubSub](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/henn1nk/MinPubSub?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A micro publish/subscribe messaging framework, weighing in at only **198 bytes** gzipped. Created by rewriting Peter Higgins' jQuery plugin, MinPubSub is completely self contained with no external dependencies. Keep your projects loosely coupled with this powerful design pattern. Also available on <http://search.npmjs.org/#/minpubsub>.
 
 ### Features
